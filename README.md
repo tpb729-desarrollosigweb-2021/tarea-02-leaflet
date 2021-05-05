@@ -14,5 +14,6 @@ Desarrolle en GitHub un mapa Leaflet con las siguientes características (el por
 - (20%) Al menos una capa vectorial de líneas.
 - (20%) Al menos una capa vectorial de puntos.
 - (15%) Un control de capas que permita elegir la capa base y activar y desactivar las capas vectoriales.
+- (15%) Código HTML, CSS y JavaScript en archivos separados.
 
 Publique la página resultante en GitHub Pages y envíele al profesor la dirección.
