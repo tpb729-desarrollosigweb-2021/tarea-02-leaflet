@@ -10,7 +10,7 @@ Debe enviarle al profesor por correo electrónico la dirección de la página we
 Desarrolle en GitHub un mapa Leaflet con las siguientes características (el porcentaje de la nota total correspondiente a cada una se muestra entre paréntesis): 
 
 - (10%) Al menos dos capas de teselas (*tile*) como capas base.
-- (20%) Al menos una capa vectorial de polígonos.
+- (20%) Al menos una capa vectorial de polígonos (que no sea la de áreas silvestres protegidas ni la de distritos).
 - (20%) Al menos una capa vectorial de líneas.
 - (20%) Al menos una capa vectorial de puntos.
 - (15%) Un control de capas que permita elegir la capa base y activar y desactivar las capas vectoriales.
